@@ -14,7 +14,7 @@ This project is an OTT (Over-the-Top) platform developed with React. The platfor
 
 ## Media Gallery
 <p align="center">
-  <img src="./Screenshots/search-bar.png" alt="search-bar" width="200"/>
+  <img src="./Screenshots/search-bar.png" alt="search-bar"/>
   <img src="./Screenshots/Trending.png" alt="Trending" width="200"/>
   <img src="./Screenshots/Top rated.png" alt="Top rated" width="200"/>
   <img src="./Screenshots/Tv shows.png" alt="Tv shows" width="200"/>
