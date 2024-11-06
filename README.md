@@ -12,6 +12,12 @@ This project is an OTT (Over-the-Top) platform developed with React. The platfor
 - **Dynamic Routing**: Uses React Router for seamless navigation.
 - **Customizable UI**: Easily configurable and extendable components.
 
+## Screenshots
+
+![Home Page](./Screenshots/search-bar.png)
+![Media Pages][(./Screenshots/Trending.png)(./Screenshots/Top ranted/png)]
+
+
 ## Tech Stack
 
 - **Frontend**: React, JavaScript, CSS, SCSS
